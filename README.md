@@ -67,8 +67,3 @@ https://www.investopedia.com/articles/07/montecarlo.asp
   - Pandas
   - Matplotlib
   - Seaborn
-
-## Authors
-- [swati khedekar](https://github.com/Swatikhedekar/Stock-Market-Data-Analysis-EDA-project)
-## Contact
-khedekarswati75@gmail.com
